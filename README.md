@@ -101,7 +101,7 @@ I'm constantly learning, building projects, and improving my problem-solving ski
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:nourahmed7n@gmail.com">
   <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40" alt="Gmail"/>
 </a>
 
