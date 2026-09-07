@@ -70,16 +70,6 @@ I'm continuously learning, building projects, and looking for opportunities to g
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Nour-Ahmed7&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 💻 GitHub
 
 I'm constantly learning, building projects, and improving my problem-solving skills through hands-on development.
