@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/qgQUggACo3Pfv687qPC/giphy.gif" width="450" alt="Coding GIF">
+<!-- <img src="https://media.giphy.com/media/qgQUggACo3Pfv687qPC/giphy.gif" width="450" alt="Coding GIF"> -->
 
 </div>
 
